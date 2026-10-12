@@ -1,0 +1,28 @@
+# Word
+https://github.com/storytold/wordcraft
+# Excel
+https://github.com/storytold/gridcraft
+# Powerpoint
+https://github.com/storytold/deckcraft
+
+# Acrobat
+https://github.com/storytold/pdfcraft
+# Photoshop
+https://github.com/storytold/photocraft
+# Ilustrator
+https://github.com/storytold/vectorcraft
+# Premiere Pro
+#https://github.com/storytold/filmcraft
+# Lightroom
+#https://github.com/storytold/lightcraft
+# After Effects
+#https://github.com/storytold/effectcraft
+# InDesign
+#https://github.com/storytold/designcraft
+
+# Avid Pro
+https://github.com/storytold/soundcraft
+# AutoCAD
+#https://github.com/storytold/cadcraft
+# Figma
+#https://github.com/storytold/figcraft
